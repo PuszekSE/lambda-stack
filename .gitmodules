@@ -1,0 +1,9 @@
+[submodule "storm-kafka"]
+	path = storm-kafka
+	url = https://github.com/michallorens/storm-kafka.git
+[submodule "dropwizard-kafka"]
+	path = dropwizard-kafka
+	url = https://github.com/PuszekSE/dropwizard-kafka
+[submodule "cassandra"]
+	path = cassandra
+	url = https://github.com/knawrot/cassandra.git
