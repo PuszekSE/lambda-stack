@@ -10,7 +10,7 @@
 	<modules>
 		<module>storm-kafka</module>
 		<module>cassandra</module>
-		<module>dropwizard</module>
+		<module>dropwizard-kafka</module>
 	</modules>
 
   	<name>lambda-stack</name>
